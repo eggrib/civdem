@@ -1,6 +1,12 @@
 # civdem
 
-Agent-based evolutionary demography simulation in **Python** modeling kinship, marriage regimes, and selection across 4,000 years, calibrated via ABC-SMC on 10,703 ancient AADR genomes.
+Evolutionary demography simulation and calibration pipeline in Python.
 
-- **Interactive Overview:** [699718.space/simple-v3.html](https://699718.space/simple-v3.html)
-- **Technical Paper & Charts:** [699718.space/research-v6.html](https://699718.space/research-v6.html)
+## Overview
+- Agent/population-level simulation exploring long-term demographic and selection dynamics
+- Parameter inference and trajectory comparison via ABC-SMC against empirical reference datasets
+- Paired with interactive research and simplified web views on 699718.space
+
+## Stack
+- **Language:** Python
+- **Methods:** Evolutionary demography, ABC-SMC calibration
